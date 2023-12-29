@@ -1,0 +1,22 @@
+{
+    "name": "krzysztofzylka/micro-framework-authorization",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Krzysztofzylka\\MicroFrameworkAuthorization\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Krzysztof Żyłka",
+            "email": "krzysztofzylka@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "krzysztofzylka/micro-framework": "^v1.0",
+        "krzysztofzylka/database-manager": "^v1.0.27",
+        "krzysztofzylka/hash": "^1.0"
+    }
+}
