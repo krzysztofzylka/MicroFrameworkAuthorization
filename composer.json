@@ -1,5 +1,6 @@
 {
     "name": "krzysztofzylka/micro-framework-authorization",
+    "description": "Authorization component for MicroFramework",
     "type": "library",
     "license": "MIT",
     "autoload": {
